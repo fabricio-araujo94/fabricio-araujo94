@@ -1,8 +1,7 @@
 ## Hi there 👋 I’m Fabricio.
-
 I’m a developer who discovered Computer Science almost by accident — and never looked back. I’m driven by the challenge of transforming visual data into reliable and scalable Computer Vision solutions.
 
-My work revolves around Python-based vision pipelines, spanning from classical image processing to 3D spatial analysis. I continuously refine my skills by exploring adjacent areas such as geometry, optimization, and software architecture, aiming to build Computer Vision systems that are both technically sound and production-ready.
+My work revolves around Python-based vision pipelines, spanning from classical image processing to 3D spatial analysis. I’m constantly exploring the intersection of geometry, optimization, and software architecture to build systems that are not just prototypes, but production-ready.
 
 ## 🛠 Skills
 
@@ -37,3 +36,41 @@ My work revolves around Python-based vision pipelines, spanning from classical i
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="22" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="22" />
 </p>
+
+## 💾 Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-eight-theta-13.vercel.app/api?username=fabricio-araujo94&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-eight-theta-13.vercel.app/api?username=fabricio-araujo94&show_icons=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats-eight-theta-13.vercel.app/api?username=fabricio-araujo94&show_icons=true" 
+      alt="Estatísticas do GitHub de Fabricio Araujo" 
+      height="165"
+    />
+    </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-eight-theta-13.vercel.app/api/top-langs/?username=fabricio-araujo94&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-eight-theta-13.vercel.app/api/top-langs/?username=fabricio-araujo94&layout=compact"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats-eight-theta-13.vercel.app/api/top-langs/?username=fabricio-araujo94&layout=compact" 
+      alt="Linguagens mais usadas" 
+      height="165"
+    />
+    </picture>
+
+</div>
