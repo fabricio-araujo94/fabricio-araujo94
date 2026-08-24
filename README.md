@@ -1,7 +1,6 @@
 ## Hi there 👋 I’m Fabricio.
-I’m a developer who discovered Computer Science almost by accident — and never looked back. I’m driven by the challenge of transforming visual data into reliable and scalable Computer Vision solutions.
 
-My work revolves around Python-based vision pipelines, spanning from classical image processing to 3D spatial analysis. I’m constantly exploring the intersection of geometry, optimization, and software architecture to build systems that are not just prototypes, but production-ready.
+I entered the world of technology unexpectedly, and since then, it has become my calling. My primary area of study is computer vision, but my interests extend across a broad range of computing fields, including low-level programming languages, classical computer architectures, natural language processing, and web development.
 
 ## 🛠 Skills
 
